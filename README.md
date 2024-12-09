@@ -31,6 +31,7 @@
     - both dist values false means, dist_regular turned true
   
 - What has changed in this 5.0 version?
+  - added endvote - /endvote to start, /vote to vote
   - improved chat filter
   - chat commands now transient
   - coinsystem more transient
@@ -68,6 +69,8 @@
 # 𝒲𝒽𝒶𝓉 𝒾𝓉 𝒞𝑜𝓃𝓉𝒶𝒾𝓃𝓈
 
 - Enjoy the full beauty of Ankit System and PCModder System
+
+- Can be used in server builds and client builds
 
 - Contains 2 admin systems in 1 big package.
  
@@ -133,6 +136,10 @@ Avarohana/PCModder
 - ?maps
 
 - ?shower and ?snowy
+
+- /endvote to start endvote
+
+- /vote to vote for endvote
 
 - View Full Cmds in commmandList.pdf or scroll down
 
